@@ -5,7 +5,7 @@
 
 <div align="center">
 
-   Acesse o projeto através do [Gh-pages](https://rbcribeiro.github.io/SAP010-social-network/) e do [Firebase Hosting](https://exploraiapp.web.app/#login)
+   Acesse o projeto através do [Gh-pages](https://niel0503.github.io/SAP010-social-network) e do [Firebase Hosting](https://exploraiapp.web.app/#login)
   <br>
   Status do projeto: Concluído ✔ <br>
   Ferramentas e tecnologias utilizadas: <br>
